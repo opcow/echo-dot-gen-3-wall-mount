@@ -6,4 +6,4 @@ Print the upper and lower hooks as shown in `orient.png` for maximum strength.
 
 ---
 ![view 1](https://raw.githubusercontent.com/opcow/echo-dot-gen-3-wall-mount/main/view-1.png)
-![view 2](https://raw.githubusercontent.com/opcow/echo-dot-gen-3-wall-mount/main/view-2.png)
+![view 2](https://raw.githubusercontent.com/opcow/echo-dot-gen-3-wall-mount/main/wiew-2.png)
